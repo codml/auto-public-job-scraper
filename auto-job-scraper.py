@@ -43,8 +43,8 @@ def filter_financial_jobs(jobs):
         # 데이터에 코드가 없다면 기관명 리스트로 필터링해야 할 수도 있습니다.
         
         # 예시 로직: 응답 데이터에 기관 분류 코드가 포함되어 있다고 가정
-        if job.get('instClsf') == '02' or job.get('inst_clsf') == '02':
-            financial_jobs.append(job)
+        # if job.get('instClsf') == '02' or job.get('inst_clsf') == '02':
+        financial_jobs.append(job)
             
         # (대안) 코드가 안 넘어오는 경우 기관명에 '금융', '은행', '보증' 등이 포함된 경우 등
         # elif any(keyword in job.get('instNm', '') for keyword in ['금융', '은행', '투자', '신용', '기술보증']):
