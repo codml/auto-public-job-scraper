@@ -69,7 +69,7 @@ def update_readme(jobs):
             # 필드명은 실제 API 응답에 맞춰 수정 필요 (예: recrutPbancTtl, pbancEndDe 등)
             name = job.get('instNm', '기관명')
             title = job.get('recrutPbancTtl', '공고명')
-            end_date = job.get('pbancEndDe', '마감일')
+            end_date = job.get('pbancEndYmd', '마감일')
             link = job.get('srcUrl', '#') # URL 필드가 있다면
             
             readme_content += f"| {name} | {title} | {end_date} | [바로가기]({link}) |\n"
