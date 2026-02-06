@@ -38,11 +38,10 @@ def fetch_jobs():
             items = data.get('data', [])
         
         if not items:
-            print(f"Page {page} is empty. Stopping loop.")
             return []
         
     except Exception as e:
-        print(f"Exception on page {page}: {e}")
+        print(f"Exception: {e}")
         return []
             
     return items
