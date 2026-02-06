@@ -21,12 +21,10 @@ def fetch_jobs():
     }
         
     try:
-        print(f"Fetching page {page}...")
         response = requests.get(API_URL, params=params, timeout=10)
         
         # 에러 처리
         if response.status_code != 200:
-            print(f"Error on page {page}: {response.status_code}")
             return []
             
         data = response.json()
