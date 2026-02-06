@@ -29,7 +29,7 @@ def fetch_jobs():
         data = response.json()
         
         # 데이터 구조는 API마다 다를 수 있으므로 'data' 키나 'dataList' 등을 확인해야 합니다.
-        # 예시: data['data'] 리스트를 순회
+        # 예시: data['result'] 리스트를 순회
         return data.get('data', [])
     except Exception as e:
         print(f"API 호출 중 오류 발생: {e}")
@@ -55,7 +55,7 @@ def filter_financial_jobs(jobs):
 def update_readme(jobs):
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
     
-    readme_content = f"""# 🏦 금융 공기업 전산직(IT) 채용 공고
+    readme_content = f"""# 🏦 금융 공기업 및 공기업 전산직(IT) 채용 공고
 (자동 업데이트: {current_time})
 
 | 기관명 | 공고명 | 마감일 | 링크 |
