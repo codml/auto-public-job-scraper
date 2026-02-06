@@ -1,5 +1,5 @@
 # 🏦 공기업 전산직(IT) 채용 현황
-> **업데이트 시간:** 2026-02-06 12:30 (한국 시간 기준)
+> **업데이트 시간:** 2026-02-06 13:44 (한국 시간 기준)
 >
 > 🔍 **조건:** 신입 | 전산직(정보통신)
 
@@ -9,6 +9,7 @@
 
 | 상태 | D-Day | 기관명 | 공고명 | 마감일 | 링크 |
 |:---:|:---:|---|---|:---:|:---:|
+| 🟢 | **D-14** | 한국개발연구원 | KDI 청년인턴 채용공고(장애인 제한경쟁) | 20260220 | [바로가기](https://www.kdi.re.kr/share/recruitView?rec_no=286&pg=1&rec_type=I) |
 | 🟢 | **D-17** | 국립중앙의료원 | 업무지원직 병동지원-보훈특별고용(간호부) 채용 공고 | 20260223 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243627) |
 | 🟢 | **D-17** | 국립중앙의료원 | 업무지원직 병동지원(간호부) 채용 공고 | 20260223 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243626) |
 | 🟢 | **D-17** | 국립중앙의료원 | 무기계약직 간호조무사(간호부) 채용 공고 | 20260223 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243625) |
@@ -17,7 +18,6 @@
 | 🟢 | **D-14** | 한국개발연구원 | KDI 청년인턴 채용공고 | 20260220 | [바로가기](https://www.kdi.re.kr/share/recruitView?rec_no=285&pg=1&rec_type=) |
 | 🟢 | **D-12** | 학교법인한국폴리텍 | 한국폴리텍대학 항공캠퍼스 외국인근로자지원센터 직원모집 공개채용 공고 | 20260218 | [바로가기](https://www.kopo.ac.kr/kapc/board.do?menu=3829&mode=view&post=769660) |
 | 🟢 | **D-13** | 한국법무보호복지공단 | 2026년 한국법무보호복지공단 경기지부 보호수용 생활지도사 공개경쟁채용 공고 | 20260219 | [바로가기](https://recruit.incruit.com/koreha) |
-| 🟢 | **D-7** | 주택관리공단(주) | 육아휴직 대체직 채용공고(주택관리공단 경기남부지사) | 20260213 | [바로가기](www.kohom.or.kr) |
 
 <br>
 
