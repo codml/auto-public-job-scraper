@@ -30,7 +30,7 @@ def fetch_jobs():
         
         # 데이터 구조는 API마다 다를 수 있으므로 'data' 키나 'dataList' 등을 확인해야 합니다.
         # 예시: data['result'] 리스트를 순회
-        return data.get('data', [])
+        return data.get('result', [])
     except Exception as e:
         print(f"API 호출 중 오류 발생: {e}")
         return []
