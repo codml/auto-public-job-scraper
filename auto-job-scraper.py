@@ -119,7 +119,7 @@ if __name__ == "__main__":
     print("Starting job update process...")
     
     # 1. 데이터 수집 (최대 10페이지)
-    all_data = fetch_all_jobs(max_pages=10)
+    all_data = fetch_jobs(max_pages=10)
     print(f"Total items fetched: {len(all_data)}")
     
     # 3. README 작성
