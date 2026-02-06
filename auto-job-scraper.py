@@ -27,7 +27,7 @@ def fetch_jobs():
         # 에러 처리
         if response.status_code != 200:
             print(f"Error on page {page}: {response.status_code}")
-            continue
+            return []
             
         data = response.json()
         
