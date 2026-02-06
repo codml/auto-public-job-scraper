@@ -5,7 +5,7 @@ from datetime import datetime
 
 # 1. 설정 및 상수 정의
 API_KEY = os.environ.get("API_KEY")  # Github Secrets에서 가져옴
-API_URL = "https://apis.data.go.kr/1051000/recruitment"
+API_URL = "https://apis.data.go.kr/1051000/recruitment/list"
 
 # PDF에서 추출한 필터링 코드 적용
 PARAMS = {
