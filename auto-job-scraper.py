@@ -7,21 +7,6 @@ from datetime import datetime
 API_KEY = os.environ.get("API_KEY")  # Github Secrets에서 가져옴
 API_URL = "https://apis.data.go.kr/1051000/recruitment/list"
 
-# PDF에서 추출한 필터링 코드 적용
-PARAMS = {
-    "serviceKey": API_KEY,
-    "page": 1,
-    "perPage": 100,
-    "returnType": "json",
-    
-    # 문서 기반 코드 적용
-    "hire_se_code": "R2010",    # 신입 
-    "ncs_cd": "R600020",        # 정보통신(전산직) 
-    
-    # 금융 기관 필터링은 API 파라미터 지원 여부에 따라 여기서 하거나, 아래 for문에서 처리합니다.
-    # 만약 API가 기관분류 파라미터를 지원한다면: "inst_clsf": "02" 
-}
-
 def fetch_all_jobs(max_pages=10):
     """1페이지부터 max_pages까지 데이터를 모두 수집하여 리스트로 반환"""
     aggregated_jobs = []
@@ -92,10 +77,10 @@ def update_readme(jobs):
     current_time = datetime.now().strftime("%Y-%m-%d %H:%M")
     
     # README 헤더 작성
-    content = f"""# 🏦 금융 공기업 전산직(IT) 채용 현황
+    content = f"""# 🏦 공기업 전산직(IT) 채용 현황
 > **업데이트 시간:** {current_time} (한국 시간 기준)
 >
-> 🔍 **조건:** 신입 | 전산직(정보통신) | 금융 분야 공공기관
+> 🔍 **조건:** 신입 | 전산직(정보통신)
 
 <br>
 
