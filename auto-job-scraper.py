@@ -97,7 +97,7 @@ def update_readme(jobs):
             # 필드명 매핑 (API 실제 응답 키값으로 수정 필수)
             inst_name = job.get('instNm', '기관명 없음')
             title = job.get('recrutPbancTtl', '제목 없음')
-            end_date_raw = job.get('pbancEndDe', '20991231')
+            end_date_raw = job.get('pbancEndYmd', '20991231')
             url = job.get('srcUrl', '')
             
             d_day_str, status_icon = calculate_d_day(end_date_raw)
