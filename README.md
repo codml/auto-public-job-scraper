@@ -1,5 +1,5 @@
 # 🏦 공기업 전산직(IT) 채용 현황
-> **업데이트 시간:** 2026-02-09 00:00 (한국 시간 기준)
+> **업데이트 시간:** 2026-02-09 03:14 (한국 시간 기준)
 >
 > 🔍 **조건:** 신입 | 전산직(정보통신)
 
@@ -9,16 +9,15 @@
 
 | 상태 | D-Day | 기관명 | 공고명 | 마감일 | 링크 |
 |:---:|:---:|---|---|:---:|:---:|
-| 🟢 | **D-16** | 한국마사회 | 한국마사회 경마지원직 채용공고(제주본부) | 20260225 | [바로가기](http:///recruit.kra.co.k) |
-| 🟢 | **D-11** | 한국개발연구원 | KDI 청년인턴 채용공고(장애인 제한경쟁) | 20260220 | [바로가기](https://www.kdi.re.kr/share/recruitView?rec_no=286&pg=1&rec_type=I) |
-| 🟢 | **D-14** | 국립중앙의료원 | 업무지원직 병동지원-보훈특별고용(간호부) 채용 공고 | 20260223 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243627) |
-| 🟢 | **D-14** | 국립중앙의료원 | 업무지원직 병동지원(간호부) 채용 공고 | 20260223 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243626) |
-| 🟢 | **D-14** | 국립중앙의료원 | 무기계약직 간호조무사(간호부) 채용 공고 | 20260223 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243625) |
-| 🟢 | **D-12** | 중소벤처기업연구원 | 2026년도 제2차 중소벤처기업연구원 공개채용 공고 | 20260221 | [바로가기](https://recruit.kosi.re.kr) |
-| 🟢 | **D-4** | 한국법무보호복지공단 | 2026년 한국법무보호복지공단 광주남부지소 보호직(육아휴직대체직) 공개경쟁채용시험 공고 | 20260213 | [바로가기](https://recruit.incruit.com/koreha) |
-| 🟢 | **D-11** | 한국개발연구원 | KDI 청년인턴 채용공고 | 20260220 | [바로가기](https://www.kdi.re.kr/share/recruitView?rec_no=285&pg=1&rec_type=) |
-| 🟢 | **D-9** | 학교법인한국폴리텍 | 한국폴리텍대학 항공캠퍼스 외국인근로자지원센터 직원모집 공개채용 공고 | 20260218 | [바로가기](https://www.kopo.ac.kr/kapc/board.do?menu=3829&mode=view&post=769660) |
-| 🟢 | **D-10** | 한국법무보호복지공단 | 2026년 한국법무보호복지공단 경기지부 보호수용 생활지도사 공개경쟁채용 공고 | 20260219 | [바로가기](https://recruit.incruit.com/koreha) |
+| 🟢 | **D-14** | 한국장애인개발원 | [제2026-24호] 2026년도 제2차 경상남도장애아동·발달장애인지원센터 (장애아동지원팀)기간제 계약직 채용 공고 | 20260223 | [바로가기](https://koddicpdd.fairyhr.com) |
+| 🟢 | **D-15** | 국립중앙의료원 | 약무직 5급 약사(약제부) 채용 공고 | 20260224 | [바로가기](https://nmc.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=243905) |
+| 🟢 | **D-14** | (주)한국가스기술공사 | 통영기지지사 기간제계약직(육아휴직 대체인력) 채용 공고 | 20260223 | [바로가기](https://kogastech.recruiter.co.kr) |
+| 🚨 | **D-3** | 한전KPS(주) | 한전KPS(주)평택사업소 '26년도 신평택 계획예방정비공사 단기노무원 모집(기계, 안전) | 20260212 | [바로가기](https://www.kps.co.kr) |
+| 🟢 | **D-15** | 대한적십자사 | 서울동부혈액원 비정규직 육아휴직 대체(사무보조원) 채용 공고 | 20260224 | [바로가기](https://www.bloodinfo.net/knrcbs/na/ntt/selectNttInfo.do?mi=1088&bbsId=1044&nttSn=544210) |
+| 🟢 | **D-15** | 소프트웨어정책연구소 | 소프트웨어정책연구소 계약직(연구직) 채용 | 20260224 | [바로가기](https://spri.brms.kr/) |
+| 🟢 | **D-14** | 한국환경공단 | 한국환경공단 수도권동부환경본부 폐기물적정처리추진센터 운영 기간제근로자(촉탁라급) 채용공고 | 20260223 | [바로가기](https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=99030&cpage=1&rows=10&condition=&keyword=) |
+| 🟢 | **D-15** | 소프트웨어정책연구소 | 소프트웨어정책연구소 정규직(연구직) 채용 | 20260224 | [바로가기](https://spri.brms.kr/) |
+| 🟢 | **D-14** | 한국수자원공사 | [한국수자원공사] 부산권지사 단기계약근로자(서무보조) 채용 공고(장애인제한채용) | 20260223 | [바로가기](https://k-water.recruiter.co.kr) |
 
 <br>
 
