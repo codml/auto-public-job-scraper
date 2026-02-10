@@ -1,5 +1,5 @@
 # 🏦 공기업 전산직(IT) 채용 현황
-> **업데이트 시간:** 2026-02-10 07:58 (한국 시간 기준)
+> **업데이트 시간:** 2026-02-10 09:03 (한국 시간 기준)
 >
 > 🔍 **조건:** 신입 | 전산직(정보통신)
 
@@ -9,14 +9,15 @@
 
 | 상태 | D-Day | 기관명 | 공고명 | 마감일 | 링크 |
 |:---:|:---:|---|---|:---:|:---:|
+| 🟢 | **D-14** | 한국보건의료연구원 | 한국보건의료연구원 2026년 제1차 직원채용 공고 | 20260224 | [바로가기](http://neca.applyin.co.kr) |
+| 🟢 | **D-16** | 한식진흥원 | 2026년 제1차 한식진흥원 공개채용 공고 | 20260226 | [바로가기](https://www.hansik.or.kr/board/no/empmn/view/303?bbsSeq=67139&bbsId=303&curPage=1&bbsType=no&menuSn=233&flag=N&searchWord=&rowSize=20) |
+| 🟢 | **D-10** | 근로복지공단 | [안산병원] 의료직(간호사) 6급 채용 공고 | 20260220 | [바로가기](https://www.comwel.or.kr/recruit/hp/pblanc/pblancList.do) |
+| 🟢 | **D-14** | 근로복지공단 | [근로복지공단] 기술기능직(기술_안전관리, 기술_기계) 채용공고 | 20260224 | [바로가기](https://www.comwel.or.kr/recruit/hp/main.do) |
+| 🟢 | **D-13** | 근로복지공단 | [순천병원] 기간제 의사(응급실) 채용 공고 | 20260223 | [바로가기](https://www.comwel.or.kr/recruit/hp/main.do) |
+| 🟢 | **D-9** | 서울대학교치과병원 | 기간제근무자(간호직, 보건직)채용 공고 | 20260219 | [바로가기](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244087) |
+| 🟢 | **D-9** | 서울대학교치과병원 | 기간제근무자(원무직-수납)채용 공고 | 20260219 | [바로가기](https://snudh.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=244119) |
 | 🟢 | **D-12** | 학교법인한국폴리텍 | 한국폴리텍대학 영남융합기술캠퍼스 행정지원직(육아휴직 대체인력) 채용 공고 | 20260222 | [바로가기](https://www.kopo.ac.kr/yct/board.do?menu=10559&mode=view&post=769913) |
 | 🟢 | **D-9** | 주택관리공단(주) | 육아휴직 대체직 채용공고(주택관리공단 대전충남지사) | 20260219 | [바로가기](https://www.kohom.or.kr) |
-| 🟢 | **D-9** | 주택관리공단(주) | 채용형 인턴 채용공고(주택관리공단 대전충남지사) | 20260219 | [바로가기](https://www.kohom.or.kr) |
-| 🟢 | **D-15** | 한전KPS(주) | 한전KPS(주)남제주사업소 경상정비공사 단기노무원 채용공고  | 20260225 | [바로가기](https://www.kps.co.kr) |
-| 🟢 | **D-13** | 한전KPS(주) | 한전KPS(주)충남전북전력지사(대전지점) 단기노무원 채용 공고 | 20260223 | [바로가기](http://www.kps.co.kr) |
-| 🚨 | **D-2** | 한전KPS(주) | 한전KPS신세종사업소 경상정비공사 기계보조 모집 | 20260212 | [바로가기](www.kps.co.kr) |
-| 🟢 | **D-22** | 한국연구재단 | 한국연구재단 PM(문화융복합단장) 초빙 공고 | 20260304 | [바로가기](https://www.nrf.re.kr/page/55?ac=view&searchType=&searchText=&pageNum=1&menuNo=55&boardNo=8&menuTypeCd=MENU_TYPE_02&postNo=263021) |
-| 🟢 | **D-15** | 대한법률구조공단 | 대한법률구조공단 원주출장소 청년인턴 공개경쟁 채용시험 공고 | 20260225 | [바로가기](https://www.klac.or.kr/notification/hireNotice/selectHireNoticeView.do?boardCode=241&contentId=AD_0000155402&pageIndex=1&searchCnd=0&searchWrd=) |
 
 <br>
 
